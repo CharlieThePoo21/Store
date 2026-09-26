@@ -1,0 +1,30 @@
+[
+  {
+    "id": "biz-cards-100",
+    "name": "Custom Business Cards (100 pack)",
+    "description": "Premium matte-finish business cards, full color both sides.",
+    "price": 24.99,
+    "image": "https://placehold.co/400x300?text=Business+Cards"
+  },
+  {
+    "id": "poster-18x24",
+    "name": "Poster Print 18x24",
+    "description": "High-resolution poster print on satin photo paper.",
+    "price": 19.99,
+    "image": "https://placehold.co/400x300?text=Poster+Print"
+  },
+  {
+    "id": "canvas-16x20",
+    "name": "Canvas Print 16x20",
+    "description": "Gallery-wrapped canvas print, ready to hang.",
+    "price": 49.99,
+    "image": "https://placehold.co/400x300?text=Canvas+Print"
+  },
+  {
+    "id": "stickers-50",
+    "name": "Custom Sticker Sheet (50 pack)",
+    "description": "Waterproof vinyl stickers, die-cut to your design.",
+    "price": 14.99,
+    "image": "https://placehold.co/400x300?text=Stickers"
+  }
+]
